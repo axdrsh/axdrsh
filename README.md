@@ -1,5 +1,5 @@
 <samp>
-i like building stuff
+i like building stuff.
 <br>
 currently working on - <a href="https://github.com/axdrsh/pulse">pulse</a>
 <br>
